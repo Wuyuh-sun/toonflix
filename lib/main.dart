@@ -43,7 +43,7 @@ class App extends StatelessWidget {
                         ),
                         Text("Welcome back",
                             style: TextStyle(
-                                color: Colors.white.withOpacity(0.5),
+                                color: Colors.white.withOpacity(0.6),
                                 fontSize: 18)),
                       ],
                     )
